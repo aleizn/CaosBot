@@ -12,7 +12,7 @@ let donar =`
 *║ 𝙷𝙾𝙻𝙰 ${name}*
 *║ 👉🏻 𝙰𝚀𝚄𝙸 𝙰𝙻𝙶𝚄𝙽𝙾𝚂 𝙳𝙰𝚃𝙾𝚂*
 *║ 𝙿𝙾𝚁 𝚂𝙸 𝙶𝚄𝚂𝚃𝙰𝚂 𝚂𝙴𝙶𝚄𝙸𝚁𝙼𝙴 :𝟹*
-*║ ➢ https://www.instagram.com/ale.izn_10/*
+*║ ➢ https://www.instagram.com/community.caos/*
 *║*
 *║ ♥️ 𝙲𝙾𝙽𝚃𝙰𝙲𝚃𝙰𝙼𝙴 𝚂𝙸 𝙽𝙴𝙲𝙴𝚂𝙸𝚃𝙰𝚂*
 *║ 𝙼𝙰𝚂 𝙳𝙰𝚃𝙾𝚂 𝚈 𝙿𝙰𝚁𝙰 𝙰𝙶𝚁𝙰𝙳𝙴𝙲𝙴𝚁𝚃𝙴*
